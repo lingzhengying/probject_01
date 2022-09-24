@@ -1,0 +1,5 @@
+# 忽略boos.css 这个文件
+boos.css
+
+#忽略test文件下所有的文件
+test/
